@@ -1,0 +1,106 @@
+COVID_19_22,DETAIL_HEALTH,CORRELATION
+COVID_Confirm,Range Drug Overdose Mortality Rate,0.009556041
+COVID_Confirm,Heath_Care_Costs,0.021031892
+COVID_Confirm,Percent_American_Alaskan_Indian,0.022202476
+COVID_Confirm,Percent_Hawaiian_PacificIslander,0.026336924
+COVID_Confirm,Drug_Overdose_Mortality_Rate,0.028520545
+COVID_Confirm,Percent_Uninsured_Adults,0.035616623
+COVID_Confirm,Percent_Free_Reduced_Lunch,0.046727622
+COVID_Confirm,Percent_Under18,0.051200084
+COVID_Confirm,PCP_Rate,0.058758819
+COVID_Confirm,Percent_Food_Insecure,0.059538369
+COVID_Confirm,Percent_Limited_Access,0.065812547
+COVID_Confirm,Household_ income_Hispanic,0.071921947
+COVID_Confirm,Homicide_Rate,0.074527257
+COVID_Confirm,Child_Mortality_Rate_Hispanic,0.079024428
+COVID_Confirm,Percent_Frequent_Mental_Distress,0.086227711
+COVID_Confirm,Percent_Frequent_Physical_Distress,0.086422636
+COVID_Confirm,Percent_Insufficient_ Sleep,0.086787197
+COVID_Confirm,Percent_Female,0.087560023
+COVID_Confirm,Infant_Mortality_Rate_Hispanic,0.091337881
+COVID_Confirm,Age_Adjusted_Mortality_Hispanic,0.091756993
+COVID_Confirm,Infant Mortality Rate,0.094113432
+COVID_Confirm,Child_Mortality_Rate,0.102837993
+COVID_Confirm,Percent_African_American,0.105797776
+COVID_Confirm,Percent_Uninsured_Children,0.109015938
+COVID_Confirm,Age_Adjusted_Mortality,0.117929443
+COVID_Confirm,Household_ income_Black,0.124644858
+COVID_Confirm,Firearm_Fatalities_Rate,0.127270309
+COVID_Confirm,Segregation_Index_Black_White,0.128021458
+COVID_Confirm,Percent_Diabetic,0.131537101
+COVID_Confirm,Percent_Disconnected_Youth,0.131670304
+COVID_Confirm,Age_Adjusted_Mortality_Black,0.138550496
+COVID_Confirm,Percent_Hispanic,0.166316383
+COVID_Confirm,Percent_65_and_over,0.173224295
+COVID_Confirm,Segregation_Index_Nonwhite_White,0.181121847
+COVID_Confirm,Child_Mortality_Rate_Black,0.188466175
+COVID_Confirm,DensitySQMile,0.207289965
+COVID_Confirm,Motor_Vehicle_Mortality_Rate,0.212693294
+COVID_Confirm,HIV_Prevalence_Rate,0.213179799
+COVID_Confirm,Infant_Mortality_Rate_Black,0.213314347
+COVID_Confirm,Percent_White,0.219981088
+COVID_Confirm,Age_Adjusted_Mortality_White,0.227595895
+COVID_Confirm,Household_Income,0.22897089
+COVID_Confirm,Infant_Mortality_Rate_White,0.248773968
+COVID_Confirm,Child_Mortality_Rate_White,0.281243731
+COVID_Confirm,Percent_ Not_Proficient_English,0.283640874
+COVID_Confirm,Percent_Rural,0.309034262
+COVID_Confirm,Household_ income_White,0.343364609
+COVID_Confirm,Percent_Asian,0.403223103
+COVID_Confirm,Number_Infant_Deaths,0.676308083
+COVID_Confirm,Number_Child_Deaths,0.678885666
+COVID_Confirm,Number_Adult_Deaths,0.705702933
+COVID_Confirm,Population,0.70830159
+COVID_Confirm,COVID_Death,0.924710927
+COVID_Death,Drug_Overdose_Mortality_Rate,0.003970867
+COVID_Death,Percent_Hawaiian_PacificIslander,0.006914634
+COVID_Death,Infant_Mortality_Rate_Hispanic,0.007873337
+COVID_Death,Percent_American_Alaskan_Indian,0.022562978
+COVID_Death,Range Drug Overdose Mortality Rate,0.027806565
+COVID_Death,Percent_Under18,0.031820759
+COVID_Death,Heath_Care_Costs,0.032971344
+COVID_Death,Age_Adjusted_Mortality_Hispanic,0.034050867
+COVID_Death,Child_Mortality_Rate_Hispanic,0.037097198
+COVID_Death,Percent_Food_Insecure,0.038031408
+COVID_Death,PCP_Rate,0.040790399
+COVID_Death,Percent_Free_Reduced_Lunch,0.045644897
+COVID_Death,Percent_Uninsured_Adults,0.047155926
+COVID_Death,Percent_Frequent_Mental_Distress,0.064157364
+COVID_Death,Household_ income_Hispanic,0.065388382
+COVID_Death,Percent_Limited_Access,0.066530754
+COVID_Death,Infant Mortality Rate,0.071144502
+COVID_Death,Percent_Frequent_Physical_Distress,0.07390005
+COVID_Death,Child_Mortality_Rate,0.086965219
+COVID_Death,Age_Adjusted_Mortality,0.092694422
+COVID_Death,Percent_Female,0.094906914
+COVID_Death,Firearm_Fatalities_Rate,0.095737677
+COVID_Death,Percent_Insufficient_ Sleep,0.100842332
+COVID_Death,Percent_African_American,0.105897571
+COVID_Death,Age_Adjusted_Mortality_Black,0.106173656
+COVID_Death,Household_ income_Black,0.106405501
+COVID_Death,Percent_Diabetic,0.107113886
+COVID_Death,Homicide_Rate,0.107506083
+COVID_Death,Percent_Uninsured_Children,0.107922353
+COVID_Death,Percent_Disconnected_Youth,0.113175668
+COVID_Death,Percent_Hispanic,0.11653282
+COVID_Death,Segregation_Index_Black_White,0.135119695
+COVID_Death,Percent_65_and_over,0.135241771
+COVID_Death,Child_Mortality_Rate_Black,0.161824647
+COVID_Death,DensitySQMile,0.170270895
+COVID_Death,Infant_Mortality_Rate_Black,0.177127739
+COVID_Death,Percent_White,0.186975352
+COVID_Death,Segregation_Index_Nonwhite_White,0.188478045
+COVID_Death,HIV_Prevalence_Rate,0.190231879
+COVID_Death,Motor_Vehicle_Mortality_Rate,0.190986301
+COVID_Death,Household_Income,0.197954195
+COVID_Death,Age_Adjusted_Mortality_White,0.199702637
+COVID_Death,Infant_Mortality_Rate_White,0.202142375
+COVID_Death,Percent_ Not_Proficient_English,0.218994782
+COVID_Death,Child_Mortality_Rate_White,0.258817515
+COVID_Death,Percent_Rural,0.273299044
+COVID_Death,Household_ income_White,0.303111275
+COVID_Death,Percent_Asian,0.347329398
+COVID_Death,Number_Child_Deaths,0.609298281
+COVID_Death,Number_Infant_Deaths,0.611430021
+COVID_Death,Population,0.614573468
+COVID_Death,Number_Adult_Deaths,0.657361756

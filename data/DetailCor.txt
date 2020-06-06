@@ -1,0 +1,241 @@
+ercent_Rural                         0.442836
+Age_Adjusted_Mortality_Black        Percent_Food_Insecure                 0.444598
+HIV_Prevalence_Rate                 Homicide_Rate                         0.444672
+Age_Adjusted_Mortality              Household_ income_Black               0.446253
+Infant_Mortality_Rate_Black         Household_ income_White               0.446342
+Percent_Food_Insecure               Percent_Uninsured_Adults              0.446475
+Age_Adjusted_Mortality_White        Homicide_Rate                         0.448608
+                                    Child_Mortality_Rate_Black            0.448747
+Percent_Diabetic                    Percent_African_American              0.449682
+                                    Homicide_Rate                         0.450040
+Percent_Food_Insecure               Household_ income_White               0.450496
+Motor_Vehicle_Mortality_Rate        Homicide_Rate                         0.451002
+Child_Mortality_Rate_Hispanic       Infant Mortality Rate                 0.451199
+Age_Adjusted_Mortality_Black        Percent_Diabetic                      0.454597
+Age_Adjusted_Mortality              Drug_Overdose_Mortality_Rate          0.455160
+Percent_Diabetic                    Heath_Care_Costs                      0.456050
+Percent_Food_Insecure               Household_ income_Black               0.456220
+Infant_Mortality_Rate_Black         Household_ income_Black               0.457332
+Household_Income                    Household_ income_Hispanic            0.458794
+Infant_Mortality_Rate_White         Percent_Asian                         0.460012
+Infant Mortality Rate               Infant_Mortality_Rate_Black           0.461908
+Number_Infant_Deaths                Percent_Rural                         0.462141
+Child_Mortality_Rate                Household_ income_White               0.462363
+Infant_Mortality_Rate_Hispanic      Household_ income_Hispanic            0.463236
+Age_Adjusted_Mortality_Hispanic     Infant_Mortality_Rate_Hispanic        0.464738
+Number_Child_Deaths                 Percent_Rural                         0.465001
+Number_Adult_Deaths                 Percent_Asian                         0.465697
+Percent_Frequent_Physical_Distress  Firearm_Fatalities_Rate               0.466621
+Age_Adjusted_Mortality_White        Percent_Rural                         0.467478
+Household_ income_White             Firearm_Fatalities_Rate               0.468209
+Infant Mortality Rate               Percent_Insufficient_ Sleep           0.468239
+Population                          Percent_Rural                         0.469147
+Percent_Frequent_Mental_Distress    Firearm_Fatalities_Rate               0.472173
+Percent_65_and_over                 Percent_Rural                         0.474660
+Age_Adjusted_Mortality_White        Percent_Asian                         0.476770
+Percent_Disconnected_Youth          Homicide_Rate                         0.477427
+Percent_Diabetic                    Firearm_Fatalities_Rate               0.478362
+Percent_Disconnected_Youth          Firearm_Fatalities_Rate               0.480129
+Household_Income                    Percent_Asian                         0.480594
+Motor_Vehicle_Mortality_Rate        Percent_Free_Reduced_Lunch            0.480815
+Child_Mortality_Rate_White          Household_ income_Black               0.480858
+Number_Adult_Deaths                 Percent_Rural                         0.480944
+Percent_Diabetic                    Motor_Vehicle_Mortality_Rate          0.481230
+Percent_Disconnected_Youth          Household_ income_White               0.481672
+Age_Adjusted_Mortality_Black        Infant Mortality Rate                 0.482282
+Motor_Vehicle_Mortality_Rate        Household_ income_White               0.483485
+Age_Adjusted_Mortality_White        Household_ income_Black               0.485304
+Household_ income_Black             Percent_Free_Reduced_Lunch            0.486538
+Percent_White                       Percent_ Not_Proficient_English       0.486825
+Age_Adjusted_Mortality_Black        Motor_Vehicle_Mortality_Rate          0.487422
+Age_Adjusted_Mortality              Child_Mortality_Rate_Black            0.490036
+Percent_Insufficient_ Sleep         Percent_Free_Reduced_Lunch            0.492562
+                                    Percent_African_American              0.493202
+Percent_Diabetic                    Percent_Disconnected_Youth            0.493509
+Age_Adjusted_Mortality_White        Heath_Care_Costs                      0.494743
+Household_ income_White             Percent_Rural                         0.495837
+Infant Mortality Rate               Household_ income_White               0.496053
+Age_Adjusted_Mortality_Black        Percent_Frequent_Physical_Distress    0.496119
+Age_Adjusted_Mortality              Child_Mortality_Rate_Hispanic         0.496281
+Infant_Mortality_Rate_White         Percent_Food_Insecure                 0.496786
+Age_Adjusted_Mortality_Black        Percent_Frequent_Mental_Distress      0.497942
+Infant_Mortality_Rate_White         Percent_Disconnected_Youth            0.498772
+Percent_Frequent_Mental_Distress    Percent_Disconnected_Youth            0.499594
+Infant_Mortality_Rate_White         Percent_Free_Reduced_Lunch            0.500565
+Age_Adjusted_Mortality_White        Percent_Food_Insecure                 0.500773
+Age_Adjusted_Mortality_Black        Firearm_Fatalities_Rate               0.504995
+Percent_Frequent_Mental_Distress    Homicide_Rate                         0.505011
+Age_Adjusted_Mortality_White        Percent_Free_Reduced_Lunch            0.505316
+Household_Income                    Homicide_Rate                         0.506370
+Child_Mortality_Rate                Percent_Frequent_Mental_Distress      0.506601
+Infant Mortality Rate               Percent_African_American              0.508372
+Percent_Food_Insecure               Firearm_Fatalities_Rate               0.508798
+Percent_Frequent_Physical_Distress  Homicide_Rate                         0.509258
+Percent_Disconnected_Youth          Percent_Rural                         0.509300
+Child_Mortality_Rate_Black          Household_ income_White               0.509400
+Child_Mortality_Rate                Child_Mortality_Rate_Hispanic         0.511191
+Percent_Hispanic                    Percent_White                         0.511767
+Age_Adjusted_Mortality_Black        Household_ income_White               0.512136
+Percent_Diabetic                    Household_ income_White               0.513740
+Percent_Asian                       Percent_Rural                         0.513780
+Percent_Food_Insecure               Percent_Disconnected_Youth            0.514968
+Child_Mortality_Rate                Percent_Frequent_Physical_Distress    0.515340
+Percent_Free_Reduced_Lunch          Firearm_Fatalities_Rate               0.516200
+Age_Adjusted_Mortality_Black        Child_Mortality_Rate_White            0.517044
+Child_Mortality_Rate_Black          Household_Income                      0.518115
+Percent_Food_Insecure               Percent_White                         0.518796
+Age_Adjusted_Mortality_Black        Child_Mortality_Rate                  0.518847
+Child_Mortality_Rate_White          Firearm_Fatalities_Rate               0.519141
+Household_ income_Black             Household_ income_White               0.520609
+Age_Adjusted_Mortality_Black        Age_Adjusted_Mortality_Hispanic       0.522486
+Percent_Free_Reduced_Lunch          Percent_White                         0.524726
+Infant_Mortality_Rate_White         Percent_Rural                         0.525699
+Age_Adjusted_Mortality_White        Percent_Disconnected_Youth            0.530076
+Percent_Food_Insecure               Percent_Insufficient_ Sleep           0.533697
+Household_Income                    Firearm_Fatalities_Rate               0.536320
+Child_Mortality_Rate                Percent_Disconnected_Youth            0.536374
+Child_Mortality_Rate_Black          Household_ income_Black               0.537116
+Age_Adjusted_Mortality_Hispanic     Age_Adjusted_Mortality_White          0.537537
+                                    Percent_Female                        0.540804
+Motor_Vehicle_Mortality_Rate        Household_Income                      0.541770
+HIV_Prevalence_Rate                 Percent_White                         0.544528
+Percent_Free_Reduced_Lunch          Percent_African_American              0.545772
+Child_Mortality_Rate_Black          Infant Mortality Rate                 0.546211
+Child_Mortality_Rate                Percent_Diabetic                      0.546588
+Infant_Mortality_Rate_White         Percent_Frequent_Mental_Distress      0.549014
+Child_Mortality_Rate_White          Percent_Frequent_Physical_Distress    0.550460
+Percent_Uninsured_Adults            Percent_White                         0.553227
+Household_ income_White             Percent_Free_Reduced_Lunch            0.553357
+Infant Mortality Rate               Firearm_Fatalities_Rate               0.554795
+Percent_Frequent_Physical_Distress  Percent_Disconnected_Youth            0.555838
+Infant_Mortality_Rate_White         Percent_Frequent_Physical_Distress    0.558821
+Infant Mortality Rate               Homicide_Rate                         0.558985
+Child_Mortality_Rate_White          Percent_Frequent_Mental_Distress      0.560506
+Population                          Percent_Asian                         0.563330
+Age_Adjusted_Mortality              Heath_Care_Costs                      0.563672
+Child_Mortality_Rate                Firearm_Fatalities_Rate               0.569004
+                                    Child_Mortality_Rate_Black            0.569550
+Percent_Uninsured_Adults            Percent_Free_Reduced_Lunch            0.570993
+Motor_Vehicle_Mortality_Rate        Firearm_Fatalities_Rate               0.571814
+Age_Adjusted_Mortality_Black        Household_Income                      0.573729
+Child_Mortality_Rate                Percent_Food_Insecure                 0.573784
+                                    Percent_Free_Reduced_Lunch            0.574991
+Household_ income_White             Percent_Asian                         0.575043
+Age_Adjusted_Mortality              Homicide_Rate                         0.575171
+                                    Age_Adjusted_Mortality_Hispanic       0.575185
+Age_Adjusted_Mortality_Black        Household_ income_Black               0.575224
+                                    Age_Adjusted_Mortality_White          0.575227
+Segregation_Index_Black_White       Segregation_Index_Nonwhite_White      0.576811
+Percent_Disconnected_Youth          Percent_Free_Reduced_Lunch            0.579003
+HIV_Prevalence_Rate                 Percent_African_American              0.579449
+Percent_Diabetic                    Percent_Food_Insecure                 0.579480
+Percent_Disconnected_Youth          Household_Income                      0.579955
+Infant Mortality Rate               Motor_Vehicle_Mortality_Rate          0.583645
+Percent_Under18                     Percent_65_and_over                   0.583951
+Infant_Mortality_Rate_White         Household_Income                      0.585505
+Child_Mortality_Rate                Household_Income                      0.585762
+Infant Mortality Rate               Percent_Frequent_Physical_Distress    0.587241
+Infant_Mortality_Rate_White         Percent_Diabetic                      0.589888
+Infant Mortality Rate               Percent_Disconnected_Youth            0.590279
+                                    Percent_Frequent_Mental_Distress      0.590913
+Age_Adjusted_Mortality              Motor_Vehicle_Mortality_Rate          0.590994
+Child_Mortality_Rate_White          Percent_Diabetic                      0.592662
+Motor_Vehicle_Mortality_Rate        Percent_Disconnected_Youth            0.593854
+Homicide_Rate                       Percent_White                         0.593918
+Infant Mortality Rate               Percent_Free_Reduced_Lunch            0.594318
+Percent_Diabetic                    Percent_Free_Reduced_Lunch            0.594528
+Age_Adjusted_Mortality              Percent_Disconnected_Youth            0.594602
+Child_Mortality_Rate_White          Percent_Disconnected_Youth            0.594860
+                                    Percent_Rural                         0.594902
+Age_Adjusted_Mortality              Firearm_Fatalities_Rate               0.594963
+                                    Percent_Insufficient_ Sleep           0.596482
+Household_Income                    Household_ income_Black               0.597182
+Age_Adjusted_Mortality_White        Percent_Diabetic                      0.598684
+Infant_Mortality_Rate_White         Household_ income_White               0.599326
+Child_Mortality_Rate_White          Percent_Food_Insecure                 0.600921
+Child_Mortality_Rate_Hispanic       Infant_Mortality_Rate_Hispanic        0.601096
+Child_Mortality_Rate                Motor_Vehicle_Mortality_Rate          0.601205
+Age_Adjusted_Mortality_Black        Child_Mortality_Rate_Black            0.601553
+Age_Adjusted_Mortality_White        Firearm_Fatalities_Rate               0.602320
+Percent_Diabetic                    Household_Income                      0.605295
+Child_Mortality_Rate                Homicide_Rate                         0.607233
+COVID_Death                         Number_Child_Deaths                   0.609298
+Infant Mortality Rate               Household_Income                      0.610115
+Percent_Free_Reduced_Lunch          Homicide_Rate                         0.610318
+COVID_Death                         Number_Infant_Deaths                  0.611430
+Infant Mortality Rate               Percent_Food_Insecure                 0.613038
+Age_Adjusted_Mortality_White        Motor_Vehicle_Mortality_Rate          0.613281
+Child_Mortality_Rate_White          Household_ income_White               0.614514
+COVID_Death                         Population                            0.614573
+Age_Adjusted_Mortality_White        Infant Mortality Rate                 0.617450
+Child_Mortality_Rate_White          Percent_Free_Reduced_Lunch            0.622115
+Percent_Diabetic                    Percent_Insufficient_ Sleep           0.623000
+Motor_Vehicle_Mortality_Rate        Percent_Rural                         0.623418
+Age_Adjusted_Mortality              Household_ income_White               0.626156
+Age_Adjusted_Mortality_White        Child_Mortality_Rate                  0.628449
+Percent_Frequent_Physical_Distress  Household_ income_White               0.630371
+Percent_Frequent_Mental_Distress    Household_ income_White               0.638852
+Age_Adjusted_Mortality              Child_Mortality_Rate                  0.649816
+Age_Adjusted_Mortality_White        Percent_Frequent_Physical_Distress    0.652224
+                                    Percent_Frequent_Mental_Distress      0.654589
+Child_Mortality_Rate_White          Household_Income                      0.654770
+                                    Infant Mortality Rate                 0.655117
+Percent_Uninsured_Adults            Percent_Uninsured_Children            0.655727
+COVID_Death                         Number_Adult_Deaths                   0.657362
+Child_Mortality_Rate                Infant_Mortality_Rate_White           0.657393
+Percent_Food_Insecure               Household_Income                      0.660980
+Age_Adjusted_Mortality              Percent_Food_Insecure                 0.662269
+                                    Percent_Free_Reduced_Lunch            0.663896
+Infant_Mortality_Rate_White         Motor_Vehicle_Mortality_Rate          0.666786
+Infant Mortality Rate               Percent_Diabetic                      0.668441
+Percent_Frequent_Physical_Distress  Percent_Diabetic                      0.670070
+COVID_Confirm                       Number_Infant_Deaths                  0.676308
+Percent_Frequent_Mental_Distress    Percent_Free_Reduced_Lunch            0.678096
+COVID_Confirm                       Number_Child_Deaths                   0.678886
+Percent_Frequent_Physical_Distress  Percent_Food_Insecure                 0.684635
+Percent_Frequent_Mental_Distress    Percent_Food_Insecure                 0.685836
+Percent_Food_Insecure               Percent_Free_Reduced_Lunch            0.686032
+Percent_Frequent_Mental_Distress    Percent_Diabetic                      0.692334
+Age_Adjusted_Mortality              Infant_Mortality_Rate_White           0.692764
+                                    Age_Adjusted_Mortality_Black          0.693042
+Age_Adjusted_Mortality_White        Household_Income                      0.693947
+COVID_Confirm                       Number_Adult_Deaths                   0.705703
+Age_Adjusted_Mortality              Household_Income                      0.706491
+Age_Adjusted_Mortality_White        Household_ income_White               0.706796
+COVID_Confirm                       Population                            0.708302
+Drug_Overdose_Mortality_Rate        Range Drug Overdose Mortality Rate    0.708450
+Age_Adjusted_Mortality              Percent_Diabetic                      0.712051
+                                    Infant Mortality Rate                 0.712241
+Child_Mortality_Rate_White          Motor_Vehicle_Mortality_Rate          0.712429
+Percent_Frequent_Physical_Distress  Percent_Free_Reduced_Lunch            0.713655
+Percent_Frequent_Mental_Distress    Percent_Insufficient_ Sleep           0.715112
+Infant Mortality Rate               Infant_Mortality_Rate_White           0.716595
+Percent_Frequent_Physical_Distress  Percent_Insufficient_ Sleep           0.717105
+Percent_Frequent_Mental_Distress    Household_Income                      0.723828
+Percent_Food_Insecure               Homicide_Rate                         0.731372
+Age_Adjusted_Mortality              Child_Mortality_Rate_White            0.731385
+Homicide_Rate                       Firearm_Fatalities_Rate               0.734458
+Child_Mortality_Rate_Black          Infant_Mortality_Rate_Black           0.734595
+Percent_Food_Insecure               Percent_African_American              0.736409
+Percent_Frequent_Physical_Distress  Household_Income                      0.736485
+Age_Adjusted_Mortality_White        Infant_Mortality_Rate_White           0.738539
+Household_Income                    Percent_Free_Reduced_Lunch            0.741277
+Age_Adjusted_Mortality_White        Child_Mortality_Rate_White            0.742990
+Homicide_Rate                       Percent_African_American              0.744927
+Age_Adjusted_Mortality              Percent_Frequent_Mental_Distress      0.751860
+                                    Percent_Frequent_Physical_Distress    0.760530
+Percent_African_American            Percent_White                         0.771030
+Child_Mortality_Rate_White          Infant_Mortality_Rate_White           0.807531
+Child_Mortality_Rate                Infant Mortality Rate                 0.836595
+Percent_Hispanic                    Percent_ Not_Proficient_English       0.842436
+Child_Mortality_Rate                Child_Mortality_Rate_White            0.844833
+Household_Income                    Household_ income_White               0.894433
+Number_Infant_Deaths                Population                            0.921585
+COVID_Confirm                       COVID_Death                           0.924711
+Age_Adjusted_Mortality              Age_Adjusted_Mortality_White          0.926438
+Number_Child_Deaths                 Population                            0.939300
+Percent_Frequent_Physical_Distress  Percent_Frequent_Mental_Distress      0.939317
+Number_Adult_Deaths                 Population                            0.960222
+                                    Number_Infant_Deaths                  0.964151
+                                    Number_Child_Deaths                   0.972220
+Number_Child_Deaths                 Number_Infant_Deaths                  0.996241
